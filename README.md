@@ -12,6 +12,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlucascardoso&layout=compact&langs_count=16&theme=dark" />
 </div>
   
+<div align="center">
+  <a href="#">
+  <img 
+       alt="Lucas Cardoso's Activity Graph" 
+       src="https://activity-graph.herokuapp.com/graph?username=mlucascardoso&custom_title=Lucas%20Cardoso%27s%20Contribution%20Graph&bg_color=272823&color=E64073&line=FFFFFF&point=E64073&hide_border=true&theme=dark&count_private=true" />
+  </a>
+</div>
+  
 <div style="display: inline_block">
   <br>
   <img align="center" alt="Lucas Cardoso" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
@@ -21,6 +29,7 @@
   <img align="center" alt="Lucas Cardoso" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" />
   <img align="center" alt="Lucas Cardoso" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" />
 </div>
+
 
 ##
   
