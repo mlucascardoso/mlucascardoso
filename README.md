@@ -16,7 +16,7 @@
   <a href="#">
   <img 
        alt="Lucas Cardoso's Activity Graph" 
-       src="https://activity-graph.herokuapp.com/graph?username=mlucascardoso&custom_title=Lucas%20Cardoso%27s%20Contribution%20Graph&bg_color=272823&color=3fb950&line=FFFFFF&point=3fb950&hide_border=true&theme=dark&count_private=true" />
+       src="https://activity-graph.herokuapp.com/graph?username=mlucascardoso&custom_title=Lucas%20Cardoso%27s%20Contribution%20Graph&bg_color=0d1117&color=3fb950&line=FFFFFF&point=3fb950&hide_border=true&theme=dark&count_private=true" />
   </a>
 </div>
   
