@@ -1,6 +1,6 @@
 ### Hi there, I'm Lucas Cardoso 👋
 
-- 🔭 I’m currently working on FullStack development
+- 🔭 I’m currently working on FullStack development at VAEES
 - 🌱 I’m currently learning SAP Cloud Foundry
 - 👯 I’m looking to collaborate on any open source repository. I really like to contribute
 - 💬 Ask me about javascript, typescript, CI/CD, clean code
