@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on FullStack development at VAEES
 - 🌱 I’m currently learning SAP Cloud Foundry
 - 👯 I’m looking to collaborate on any open source repository. I really like to contribute
-- 💬 Ask me about javascript, typescript, CI/CD, clean code
+- 💬 Ask me about javascript, typescript, CI/CD, clean code or any other programming subject xD
 - 📫 How to reach me: clucasmedeiros@gmail.com
 
 <div>
