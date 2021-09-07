@@ -1,4 +1,4 @@
-### Hi there, I'm Lucas Cardoso 👋
+### Hi there, I'm Lucas Cardoso 👋 
 
 - 🔭 I’m currently working on FullStack development at VAEES
 - 🌱 I’m currently learning SAP Cloud Foundry
